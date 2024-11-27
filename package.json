@@ -10,7 +10,7 @@
     "test-dev": "TEST_DEV=true jest --watch"
   },
   "engines": {
-    "node": ">=8.11.3"
+    "node": "20.11.1"
   },
   "repository": {
     "type": "git",
